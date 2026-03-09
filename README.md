@@ -1,4 +1,4 @@
 # LearningGit
 Practical 4-6
 
-this is group 3
+this is a read me file bruh
